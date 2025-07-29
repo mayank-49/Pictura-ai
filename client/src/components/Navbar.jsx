@@ -20,7 +20,7 @@ const Navbar = () => {
 
         <div className="flex items-center justify-center gap-2 sm:gap-8">{user ?
             <div className="flex items-center gap-2 sm:gap-3">
-                <button className="flex items-center gap-2 bg-white shadow-lg px-4 sm:px-6 py-1.5 sm:py-3 rounded-full hover:scale-105 transition-all duration-700 cursor-pointer" onClick={()=> navigate('/buy')}>
+                <button className="flex items-center gap-2 bg-white shadow-lg px-2 sm:px-6 py-1.5 sm:py-3 rounded-full hover:scale-105 transition-all duration-700 cursor-pointer" onClick={()=> navigate('/buy')}>
                     <img src={assets.credit_star} alt="" className="w-5"/>
                     <p className="text-xs sm:text-sm font-medium text-gray-800">Credit left : {credit}</p>
                 </button>
