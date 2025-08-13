@@ -69,7 +69,7 @@ Start the server
 
 ## Tech Stack
 
-React, TailwindCSS, Node.js, Express.js, MongoDB, JWT, Clipdrop API
+React, TailwindCSS, Node.js, Express.js, MongoDB, JWT, Clipdrop API, RazorPay
 
 
 ## Demo
