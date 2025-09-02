@@ -1,4 +1,3 @@
-
 #  Pictura — AI-Powered Text-to-Image Generator
 
 Pictura is a modern web application that transforms your imagination into stunning visuals.
